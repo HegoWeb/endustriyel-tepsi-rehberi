@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hegoweb.github.io/endustriyel-tepsi-rehberi/sitemap.xml
